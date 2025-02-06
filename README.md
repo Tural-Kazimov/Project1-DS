@@ -50,3 +50,8 @@ git clone https://github.com/Tural-Kazimov/Project1-DS
 
 
 Если у вас есть проблемы с доступом к данным, свяжитесь с автором проекта.
+
+## Авторы
+
+* [Kazimov Tural]
+* [Telegram](https://t.me/kazim0v)
