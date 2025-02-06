@@ -28,21 +28,13 @@
 **О структуре проекта:**
 * [data](Project1.hhru/data_hh) - папка с исходными табличными данными
 * [images](Project1.hhru/graphs) - папка с изображениями, необходимыми для проекта
-* [data_cleaning_example.ipynb](Project1.hhru/Project-1..ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируются методы и подходы решения задач очистки данных
+* [Project1.hhru.ipynb](Project1.hhru/Project-1..ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируются методы и подходы решения задач очистки данных
 
+## Установка проекта
 
-
-
-
-
-
-
-
-
-
-
-
-
+```
+git clone https://github.com/Tural-Kazimov/Project1-DS
+```
 
 ## Данные
 
