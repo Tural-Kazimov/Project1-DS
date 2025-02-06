@@ -53,5 +53,5 @@ git clone https://github.com/Tural-Kazimov/Project1-DS
 
 ## Авторы
 
-* [Kazimov Tural]
+* Kazimov Tural 
 * [Telegram](https://t.me/kazim0v)
